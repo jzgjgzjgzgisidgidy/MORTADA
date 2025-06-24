@@ -1,2 +1,0 @@
-# MORTADA
-prog
